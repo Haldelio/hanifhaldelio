@@ -25,6 +25,7 @@
 * Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Khon Kaen University. Thailand
   
 ## Publications (_2022-Latest_)
+* Spatio-Temporal Variability of Hydrometeorological Disasters in Indonesia Based on National Disaster Risk Management Data. [(2026)](https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction)
 * Weed classification in sugarcane fields in Northeast Thailand from multi-temporal Sentinel-1 and Sentinel-2 data together with random forest algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352)
 * Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study Of Kota Setar And Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706)
 * Surface Deformation Monitoring and Forecasting of Sinabung Volcano Using Interferometry Synthetic Aperture Radar and Forest-based Algorithm. [(2024)](https://doi.org/10.1016/j.rsase.2024.101288)
