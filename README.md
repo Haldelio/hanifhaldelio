@@ -7,12 +7,9 @@
 
 ## Education
 
-- Ph.D., Khon Kaen University, Thailand (_2025-Now_)
-  - Study program of Geoinformatics
-- M.Sc., Khon Kaen University, Thailand, 2024
-  - Study program of Geoinformatics 
-- B.Sc., Universitas Negeri Padang, Indonesia, 2016
-  - Study program of Geography, consentration in Physical Geography
+- Ph.D., in Geoinformatics, Khon Kaen University, Thailand (_2025-Now_)
+- M.Sc., in Geoinformatics, Khon Kaen University, Thailand, 2024
+- B.Sc Hons., in Geography, consentration in Physical Geography, Universitas Negeri Padang, Indonesia, 2016
 
 ## Activitiy
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
