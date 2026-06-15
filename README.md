@@ -22,11 +22,11 @@
 
 ## Research
 * Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
-* Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. [(_2025_)].(https://human.msu.ac.th/eot/). Mahasarakham University, Thailand. 
-* Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)].(https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Master Degree Research Topic. Khon Kaen University. Thailand. 
+* Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand. 
+* Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Master Degree Research Topic. Khon Kaen University. Thailand. 
   
 ## Publications (_2022-Latest_)
-* Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. Rusian Journal Geography Environment and Sustanability. [(2026)].(https://www.scimagojr.com/journalsearch.php?q=21100840951&tip=sid). Q3.
+* Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. Rusian Journal Geography Environment and Sustanability. [(2026)](https://www.scimagojr.com/journalsearch.php?q=21100840951&tip=sid). Q3.
 * Spatio-Temporal Variability of Hydrometeorological Disasters in Indonesia Based on National Disaster Risk Management Data. [(2026)](https://www.sciencedirect.com/science/article/pii/S2212420926002682).International Journal of Disaster Risk Reduction. Q1
 * Weed classification in Sugarcane Fields in Northeast Thailand From Multi-temporal Sentinel-1 and Sentinel-2 Data Together With Random Forest Algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352). Journal Science of Remote Sensing. Q1. 
 * Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study Of Kota Setar And Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706). Planing Malaysia Journal. Q2. 
