@@ -58,3 +58,8 @@
 * Invited Reviewer Journal Environmental Science and Pollution Research. Springer Nature, 2025.
 * Invited Reviewer Journal Geography, Environment, Sustainability, 2026.
 
+## Profesional Experiences
+* Geographic Information System Specialist. The Department of Regional Planning and Development Agency, Dharmasraya Regency (Local government). 2021-2022.
+* Geographic Information System Specialist. The Ministry of Public Works and Public Housing of Indonesia, Riau Island. (Central government). 2020.
+* Geographic Information System Specialist. The Department of Regional Planning and Development Agency, Dharmasraya Regency (Local government). 2017-2019.
+* Assistance Geographic Information System. PT Dissaster Risk Reduction Indonesian Consutant Ltd. 2016. 
