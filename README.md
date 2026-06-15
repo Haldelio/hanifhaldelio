@@ -1,5 +1,5 @@
 ## Personal Summary
-#### Currently, he focuses on research involving remote sensing Synthetic Aperture Radar (SAR) and Geospatial Artificial Intelligence (Geo-AI) based on space time cube dataset for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal and volcanic deformation within the field of volcanology, seismic processes in seismology, and a range of natural hazard events based on Geospatial Technology. He is also open for research collaboration in related fields.
+#### Currently, he focuses on research involving remote sensing Synthetic Aperture Radar (SAR) and Geospatial Artificial Intelligence (Geo-AI) based on space time cube dataset for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal and volcanic deformation within the field of volcanology, seismic processes, and a range of natural hazard events based on Geospatial Technology. He is also open for research collaboration in related fields.
 
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
@@ -31,7 +31,7 @@
 * Surface Deformation Monitoring and Forecasting of Sinabung Volcano Using Interferometry Synthetic Aperture Radar and Forest-based Algorithm. [(2024)](https://doi.org/10.1016/j.rsase.2024.101288). Remote Sensing Applications: Society and Environment. Q1. 
 * The Quantifying Crustal Deformation Caused by the Cianjur Tectonic Earthquakes Magnitude 5.6 through InSAR and GNSS Technology. [(2024)](https://ph01.tci-thaijo.org/index.php/bestjournal/article/view/256321). Bulletin of Earth Sciences of Thailand (BEST).
 * Multi-Temporal InSAR analysis for monitoring the ground deformation of Mount Sinabung. [(2024)](https://apst.kku.ac.th/multi-temporal-insar-analysis-for-monitoring-the-ground-deformation-of-mount-sinabung/). Asia-Pacific Journal of Science and Technology. Q4.
-* Trends in rainfall and hydrometeorological disasters in new capital city of Indonesia from long-term satellite-based precipitation products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827). Remote Sensing Applications: Society and Environment. Q1.
+* Trends in Rainfall and Hydrometeorological Disasters in New Capital City of Indonesia From Long-term Satellite-based Precipitation Products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827). Remote Sensing Applications: Society and Environment. Q1.
 ### Conference papers:
 * Clustering and Forecasting Vertical Ground Deformation of Sinabung Volcano Based on Deformation Dataset and Holt-Winters Exponential Smoothing Method.[(2024)](https://doi.org/10.1007/978-981-95-3075-5_5). Springer Proceedings in Earth and Environmental Sciences. 
 * Vertical Ground Deformation Monitoring of the Sinabung Volcano in 2021-2022 using Sentinel-1 and DInSAR. [(2023)](https://www.researchgate.net/publication/370923332_Vertical_Ground_Deformation_Monitoring_of_the_Sinabung_Volcano_in_2021-2022_using_Sentinel-1_and_DInSAR). EEAT Proceeding books. 
