@@ -32,12 +32,13 @@
 * Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study Of Kota Setar And Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706). Planing Malaysia Journal. Q2. 
 * Surface Deformation Monitoring and Forecasting of Sinabung Volcano Using Interferometry Synthetic Aperture Radar and Forest-based Algorithm. [(2024)](https://doi.org/10.1016/j.rsase.2024.101288). Remote Sensing Applications: Society and Environment. Q1. 
 * The Quantifying Crustal Deformation Caused by the Cianjur Tectonic Earthquakes Magnitude 5.6 through InSAR and GNSS Technology. [(2024)](https://ph01.tci-thaijo.org/index.php/bestjournal/article/view/256321). Bulletin of Earth Sciences of Thailand (BEST).
-* Multi-Temporal InSAR analysis for monitoring the ground deformation of Mount Sinabung. [(2024)](https://apst.kku.ac.th/multi-temporal-insar-analysis-for-monitoring-the-ground-deformation-of-mount-sinabung/). Asia-Pacific Journal of Science and Technology. Q4. 
+* Multi-Temporal InSAR analysis for monitoring the ground deformation of Mount Sinabung. [(2024)](https://apst.kku.ac.th/multi-temporal-insar-analysis-for-monitoring-the-ground-deformation-of-mount-sinabung/). Asia-Pacific Journal of Science and Technology. Q4.
+* * Trends in rainfall and hydrometeorological disasters in new capital city of Indonesia from long-term satellite-based precipitation products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827). Remote Sensing Applications: Society and Environment. Q1.
+Conference papers:
 * Clustering and Forecasting Vertical Ground Deformation of Sinabung Volcano Based on Deformation Dataset and Holt-Winters Exponential Smoothing Method.[(2024)](https://doi.org/10.1007/978-981-95-3075-5_5). Springer Proceedings in Earth and Environmental Sciences. 
 * Vertical Ground Deformation Monitoring of the Sinabung Volcano in 2021-2022 using Sentinel-1 and DInSAR. [(2023)](https://www.researchgate.net/publication/370923332_Vertical_Ground_Deformation_Monitoring_of_the_Sinabung_Volcano_in_2021-2022_using_Sentinel-1_and_DInSAR). EEAT Proceeding books. 
 * Rapid Monitoring for Flood Inundation Detection-Based Sentinel-1 SAR Image Data and Exposure Assessment in Urban Building Area: Makassar City, Indonesia. [(2024)](https://doi.org/10.1007/978-981-97-0740-9_56). Springer Proceedings in Physics. 
 * Spatial Assessment Impact of Tsunami Hazard on the Transportation Infrastructure in Phuket South of Thailand. [(2022)](https://doi.org/10.1007/978-981-19-9768-6_52). Springer Proceedings in Physics. 
-* Trends in rainfall and hydrometeorological disasters in new capital city of Indonesia from long-term satellite-based precipitation products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827). Remote Sensing Applications: Society and Environment. Q1. 
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72). Springer Proceedings in Physics. 
   
 ## Conference Presentations, Invited Talk and Training (_2022-Latest_)
