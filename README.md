@@ -1,6 +1,14 @@
 ## Personal Summary
 #### Currently, he focuses on research involving remote sensing Synthetic Aperture Radar (SAR) and Geospatial Artificial Intelligence (Geo-AI) based on space time cube dataset for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal and volcanic deformation within the field of volcanology, seismic processes, and a range of natural hazard events based on Geospatial Technology. He is also open for research collaboration in related fields.
 
+## Research Interests
+- Crustal and Tectonic Defromations
+- Land Subsidence 
+- Geohazard
+- Ground Motions 
+- Earthquake Potential Estimation
+- Semi-Kinematic Geodetic Reference Frame
+
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
 [ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || 
@@ -41,7 +49,7 @@
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72). Springer Proceedings in Physics. 
   
 ## Conference Presentations, Invited Talk and Training (_2022-Latest_)
-* *Invited Speaker*, Application of Remote Sensing. Diploma Geospatial technology, University Teknology Mara UiTM Perak. Malaysia. _Coming soon 29 June 2026_. 
+* *Invited Speaker*, Application of Remote Sensing. Diploma Geospatial Technology, University Teknology Mara UiTM Perak. Malaysia. _Coming soon 29 June 2026_. 
 * *Audience*, Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * *Audience*, Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
 * *Moderator for Keynote Speaker*, International Conference of Geoscience and Remote Sensing Technology. . 2025. Padang, Indonesia.
