@@ -23,7 +23,7 @@
 ## Research
 * Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
 * Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
-* Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Khon Kaen University. Thailand
+* Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Master Degree Research Topic. Khon Kaen University. Thailand
   
 ## Publications (_2022-Latest_)
 * Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. Rusian Journal Geography Environment and Sustanability. [(2026)](https://www.scimagojr.com/journalsearch.php?q=21100840951&tip=sid). Q3.
