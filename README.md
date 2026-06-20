@@ -52,7 +52,7 @@
 * *Audience*, Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * *Audience*, Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
 * *Moderator for Keynote Speaker*, International Conference of Geoscience and Remote Sensing Technology. . 2025. Padang, Indonesia.
-* *Audience*, Machine Learning for Disasters Management. 2025. [(IEEE GRSS)](https://www.grss-ieee.org/event/machine-learning-and-earth-observation-for-natural-disasters-management/).
+* *Audience*, Machine Learning and Earth Observation for Natural Disasters Management. 2025. [(IEEE GRSS)](https://www.grss-ieee.org/event/machine-learning-and-earth-observation-for-natural-disasters-management/).
 * *Oral Presentator*, International Conference of Geoscience and Remote Sensing Technology. 2024. Padang, Indonesia.
 * *Oral Presentator*, EEAT (Environmental Engineering Association of Thailand). [(2023)](https://www.eeat.or.th/index.php/eeat-conference) Pattya, Thailand.
 * *Audience*, Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
