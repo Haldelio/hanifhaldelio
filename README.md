@@ -3,11 +3,11 @@
 
 ## Research Interests
 - Volcano, Tectonic and Crustal Deformations
-- Land Subsidence 
 - Geohazard
 - Ground Motions 
 - Earthquake Potential Estimation
 - Semi-Kinematic Geodetic Reference Frame
+- Land Subsidence 
 
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
@@ -20,8 +20,8 @@
 - B.Sc Hons., in Geography, consentration in Physical Geography, Universitas Negeri Padang, Indonesia, 2016
 
 ## Activitiy
-- 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
-
+- 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Field of Science and Technology STEM, by GS Khon Kaen University.
+- 
 ## Assistanceship
 * Research Assistance. Earth Observation Technologies (EOT) for Land and Agricultural Development. Department of Geography. Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
 
