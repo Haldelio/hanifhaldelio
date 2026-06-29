@@ -48,7 +48,7 @@
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72). Springer Proceedings in Physics. 
   
 ## Conference Presentations, Invited Talk and Training (_2022-Latest_)
-* *Invited Speaker*, Application of Remote Sensing. Diploma Geospatial Technology, University Teknology Mara UiTM Perak. Malaysia. _Coming soon 29 June 2026_. 
+* *Invited Speaker*, Application of Remote Sensing. Diploma Geospatial Technology, Faculty of Built Environment, University Teknology Mara UiTM Perak. Malaysia.June 2026. 
 * *Audience*, Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * *Audience*, Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
 * *Moderator for Keynote Speaker*, International Conference of Geoscience and Remote Sensing Technology. . 2025. Padang, Indonesia.
