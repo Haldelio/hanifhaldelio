@@ -57,6 +57,10 @@
 * *Audience*, Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
 * *Audience*, International Geoinformatics Summer School. [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
 
+## Memberships
+* Individual Member of : International Society for Photogrammetry and Remote Sensing. Since [(2026)](https://www.isprs.org/).
+* Regular Member of: Indonesian Geospatial Expert Society. Since [(2021)](https://pagiiges.org/)
+
 ## Other academic activities (_2022-Latest_)
 * Editorial Team Journal of Advanced Computer Knowledge and Algorithms, [(2026)](https://ojs.unimal.ac.id/jacka/Editorial_Team)
 * Reviewer Journal of Geoscience, Engineering, Environment, and Technology, since [(2022- now)](https://journal.uir.ac.id/index.php/JGEET/reviewer)
