@@ -2,12 +2,11 @@
 #### Currently, he focuses on research involving remote sensing Synthetic Aperture Radar (SAR) and Geospatial Artificial Intelligence (Geo-AI) based on space time cube dataset for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal and volcanic deformation within the field of volcanology, seismic processes, and a range of natural hazard events based on Geospatial Technology. He is also open for research collaboration in related fields.
 
 ## Research Interests
-- Volcano, Tectonic and Crustal Deformations
+- Volcano, Land Subsidence, Tectonic and Crustal Deformations
 - Geohazard
 - Ground Motions 
 - Earthquake Potential Estimation
 - Semi-Kinematic Geodetic Reference Frame
-- Land Subsidence 
 
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
