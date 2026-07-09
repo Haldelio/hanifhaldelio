@@ -73,3 +73,5 @@
 * Geographic Information System Specialist. The Ministry of Public Works and Public Housing of Indonesia, Riau Island. (Central government). 2020.
 * Geographic Information System Specialist. The Department of Regional Planning and Development Agency, Dharmasraya Regency (Local government). 2017-2019.
 * Assistance Geographic Information System. PT Dissaster Risk Reduction Indonesian Consutant Ltd. 2016. 
+
+<img width="1589" height="1589" alt="Co" src="https://github.com/user-attachments/assets/f740e2f3-fbbb-451b-83e1-416733eeecd0" />
