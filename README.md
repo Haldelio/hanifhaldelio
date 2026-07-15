@@ -10,7 +10,7 @@
 
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
-[ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198221444). ||
+[ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198221444) ||
 
 ## Education
 
@@ -38,6 +38,7 @@
 * The Quantifying Crustal Deformation Caused by the Cianjur Tectonic Earthquakes Magnitude 5.6 through InSAR and GNSS Technology. [(2024)](https://ph01.tci-thaijo.org/index.php/bestjournal/article/view/256321). Bulletin of Earth Sciences of Thailand (BEST).
 * Multi-Temporal InSAR analysis for monitoring the ground deformation of Mount Sinabung. [(2024)](https://apst.kku.ac.th/multi-temporal-insar-analysis-for-monitoring-the-ground-deformation-of-mount-sinabung/). Asia-Pacific Journal of Science and Technology. Q4.
 * Trends in Rainfall and Hydrometeorological Disasters in New Capital City of Indonesia From Long-term Satellite-based Precipitation Products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827). Remote Sensing Applications: Society and Environment. Q1.
+Q= Scopus quartile
 
 ### Conference papers:
 * Clustering and Forecasting Vertical Ground Deformation of Sinabung Volcano Based on Deformation Dataset and Holt-Winters Exponential Smoothing Method.[(2024)](https://doi.org/10.1007/978-981-95-3075-5_5). Springer Proceedings in Earth and Environmental Sciences. 
