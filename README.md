@@ -10,7 +10,7 @@
 
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
-[ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || 
+[ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198221444). ||
 
 ## Education
 
