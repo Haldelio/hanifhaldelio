@@ -4,9 +4,9 @@
 ## Research Interests
 - Volcano, Tectonic and Crustal Deformations
 - Geohazard
-- Ground Motions 
-- Semi-Kinematic Geodetic Reference Frame
+- Ground Motions
 - Earthquake Potential Estimation
+- Semi-Kinematic Geodetic Reference Frame
 
 #### muhammadhanif.m@cassia.kku.ac.th
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
@@ -48,7 +48,7 @@
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72). Springer Proceedings in Physics. 
   
 ## Conference Presentations, Invited Talk and Training (_2022-Latest_)
-* *Invited Speaker*, Application of Remote Sensing. Department of Surveying Science and Geomatics, Faculty of Built Environment, University Teknology Mara UiTM Perak. Malaysia.June 2026. 
+* *Invited Speaker*, Application of Remote Sensing. Department of Surveying Science and Geomatics, Faculty of Built Environment, University Teknology Mara UiTM Perak. Malaysia. 29 June 2026. 
 * *Audience*, Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * *Audience*, Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
 * *Moderator for Keynote Speaker*, International Conference of Geoscience and Remote Sensing Technology. . 2025. Padang, Indonesia.
@@ -59,7 +59,7 @@
 * *Audience*, International Geoinformatics Summer School. [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
 
 ## Memberships
-* Individual Member of : International Society for Photogrammetry and Remote Sensing. Since [(2026)](https://www.isprs.org/).
+* Individual Member of : International Society for Photogrammetry and Remote Sensing. Since [(2022)](https://www.isprs.org/).
 * Regular Member of: Indonesian Geospatial Expert Society. Since [(2021)](https://pagiiges.org/)
 
 ## Other academic activities (_2022-Latest_)
