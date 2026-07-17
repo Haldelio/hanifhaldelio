@@ -22,7 +22,7 @@
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Field of Science and Technology STEM, by GS Khon Kaen University.
   
 ## Assistanceship
-* Research Assistance. Earth Observation Technologies (EOT) for Land and Agricultural Development. Department of Geography. Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
+* Research Assistance. Topic: Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. Earth Observation Technologies (EOT) for Land and Agricultural Development. Department of Geography.  [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
 
 ## Research
 * Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
