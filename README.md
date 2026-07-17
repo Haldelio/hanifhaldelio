@@ -70,6 +70,7 @@
 * Invited Reviewer Journal Geography, Environment, Sustainability, 2026.
 
 ## Profesional Experiences
+* Geographic Information System Team. Denaya Consultido Ltd. Urban Planning and Detailed Map Making of Bantaeng Urban Planning Plan in Indonesia. 2024. 
 * Geographic Information System Specialist. The Department of Regional Planning and Development Agency, Dharmasraya Regency (Local government). 2021-2022.
 * Geographic Information System Specialist. The Ministry of Public Works and Public Housing of Indonesia, Riau Island. (Central government). 2020.
 * Geographic Information System Specialist. The Department of Regional Planning and Development Agency, Dharmasraya Regency (Local government). 2017-2019.
