@@ -4,8 +4,8 @@
 ## Research Interests
 - Volcano, Tectonic and Crustal Deformations
 - Geohazard
-- Ground Motions
-- Earthquake Potential Estimation
+- Ground Motions and Earthquake 
+- Space Geodesy
 - Semi-Kinematic Geodetic Reference Frame
 
 #### muhammadhanif.m@cassia.kku.ac.th
