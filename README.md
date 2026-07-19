@@ -24,9 +24,9 @@
 ## Assistanceship
 * Research Assistance. Topic: Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. Earth Observation Technologies (EOT) for Land and Agricultural Development. Department of Geography.  [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
 
-## Research
-* Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
-* Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Master Degree Research Topic. Khon Kaen University. Thailand. 
+## Researchs
+* Side project for QE topic: Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
+* Master Degree Research Topic: Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335).  Khon Kaen University. Thailand. 
   
 ## Publications (_2022-Latest_)
 ### Research articles:
