@@ -65,6 +65,7 @@
 ## Other academic activities (_2022-Latest_)
 * Editorial Team Journal of Advanced Computer Knowledge and Algorithms, [(2026)](https://ojs.unimal.ac.id/jacka/Editorial_Team)
 * Reviewer Journal of Geoscience, Engineering, Environment, and Technology, since [(2022- now)](https://journal.uir.ac.id/index.php/JGEET/reviewer)
+* Reviewer Journal of Geoscience, Remote Sensing and Technology, since [(2025-now)](https://geo-rest.org/index.php/geo)
 * Invited Reviewer Asian Journal of Geographical Research, 2026.
 * Invited Reviewer Journal Environmental Science and Pollution Research. Springer Nature, 2025.
 * Invited Reviewer Journal Geography, Environment, Sustainability, 2026.
