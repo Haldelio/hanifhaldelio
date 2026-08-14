@@ -30,10 +30,10 @@
   
 ## Publications (_2022-Latest_)
 ### Research articles:
-* Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand. Geo-spatial Information Science. [(2026)](https://www.tandfonline.com/journals/tgsi20/about-this-journal#aims-and-scope). Q1.
+* Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand. Geo-spatial Information Science. [(2026)](https://www.tandfonline.com/journals/tgsi20/about-this-journal#aims-and-scope). Q1. [ Project Mahasarakham University ]
 * Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. Rusian Journal Geography Environment and Sustanability. [(2026)](https://ges.rgo.ru/jour/article/view/4835). Q2.
 * Spatio-Temporal Variability of Hydrometeorological Disasters in Indonesia Based on National Disaster Risk Management Data. [(2026)](https://www.sciencedirect.com/science/article/pii/S2212420926002682). International Journal of Disaster Risk Reduction. Q1
-* Weed classification in Sugarcane Fields in Northeast Thailand From Multi-temporal Sentinel-1 and Sentinel-2 Data Together With Random Forest Algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352). Journal Science of Remote Sensing. Q1. 
+* Weed classification in Sugarcane Fields in Northeast Thailand From Multi-temporal Sentinel-1 and Sentinel-2 Data Together With Random Forest Algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352). Journal Science of Remote Sensing. Q1. [ Project Mahasarakham University ]
 * Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study of Kota Setar and Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706). Planing Malaysia Journal. Q2. 
 * Surface Deformation Monitoring and Forecasting of Sinabung Volcano Using Interferometry Synthetic Aperture Radar and Forest-based Algorithm. [(2024)](https://doi.org/10.1016/j.rsase.2024.101288). Remote Sensing Applications: Society and Environment. Q1. 
 * The Quantifying Crustal Deformation Caused by the Cianjur Tectonic Earthquakes Magnitude 5.6 through InSAR and GNSS Technology. [(2024)](https://ph01.tci-thaijo.org/index.php/bestjournal/article/view/256321). Bulletin of Earth Sciences of Thailand (BEST).
