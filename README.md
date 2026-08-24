@@ -30,9 +30,9 @@
   
 ## Publications (_2022-Latest_)
 ### Research articles:
-* Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand. Geo-spatial Information Science. [(2026)](https://www.tandfonline.com/journals/tgsi20/about-this-journal#aims-and-scope). Q1. [ Project Mahasarakham University ]
-* GeoAI-Based Prediction of Yellowfin Tuna (Thunnus albacares) Potential Fishing Zones in the Western Sumatra Waters, Indonesia. Journal Forum Geografi. [(2026)](https://journals.ums.ac.id/fg). Q1. 
-* Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. Rusian Journal Geography Environment and Sustanability. [(2026)](https://ges.rgo.ru/jour/article/view/4835). Q2.
+* Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand.  [(2026)](https://www.tandfonline.com/journals/tgsi20/about-this-journal#aims-and-scope). Geo-spatial Information Science. Q1. [ Project Mahasarakham University ]
+* GeoAI-Based Prediction of Yellowfin Tuna (Thunnus albacares) Potential Fishing Zones in the Western Sumatra Waters, Indonesia. [(2026)](https://journals.ums.ac.id/fg). Journal Forum Geografi. Q1. 
+* Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. [(2026)](https://ges.rgo.ru/jour/article/view/4835). Rusian Journal Geography Environment and Sustanability. Q2.
 * Spatio-Temporal Variability of Hydrometeorological Disasters in Indonesia Based on National Disaster Risk Management Data. [(2026)](https://www.sciencedirect.com/science/article/pii/S2212420926002682). International Journal of Disaster Risk Reduction. Q1
 * Weed classification in Sugarcane Fields in Northeast Thailand From Multi-temporal Sentinel-1 and Sentinel-2 Data Together With Random Forest Algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352). Journal Science of Remote Sensing. Q1. [ Project Mahasarakham University ]
 * Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study of Kota Setar and Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706). Planing Malaysia Journal. Q2. 
