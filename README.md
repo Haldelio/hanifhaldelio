@@ -30,7 +30,7 @@
   
 ## Publications (_2022-Latest_)
 ### Research articles:
-* Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand.  [(2026)](https://www.tandfonline.com/journals/tgsi20/about-this-journal#aims-and-scope). Geo-spatial Information Science. Q1. [ Project Mahasarakham University ]
+* Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand.  [(2026)](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2718647). Geo-spatial Information Science. Q1. [ Project Mahasarakham University ]
 * GeoAI-Based Prediction of Yellowfin Tuna (Thunnus albacares) Potential Fishing Zones in the Western Sumatra Waters, Indonesia. [(2026)](https://journals.ums.ac.id/fg). Journal Forum Geografi. Q1. 
 * Landslide Susceptibility Prediction on Mount Marapi Using Interferometric Synthetic Aperture Radar (InSAR) Integrated With Multi-Model Machine Learning Approaches. [(2026)](https://ges.rgo.ru/jour/article/view/4835). Rusian Journal Geography Environment and Sustanability. Q2.
 * Spatio-Temporal Variability of Hydrometeorological Disasters in Indonesia Based on National Disaster Risk Management Data. [(2026)](https://www.sciencedirect.com/science/article/pii/S2212420926002682). International Journal of Disaster Risk Reduction. Q1
