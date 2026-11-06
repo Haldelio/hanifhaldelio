@@ -13,7 +13,7 @@ Currently, he focuses on research involving remote sensing Synthetic Aperture Ra
 [ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198221444) ||
 
 <h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Education </h2>
-- Ph.D., in Geoinformatics, Khon Kaen University, Thailand (_2025-Now_)
+- Ph.D., in Geoinformatics, Khon Kaen University, Thailand (2025-Now)
 - M.Sc., in Geoinformatics, Khon Kaen University, Thailand, 2024
 - B.Sc Hons., in Geography, minor in Physical Geography, Universitas Negeri Padang, Indonesia, 2016
 
@@ -27,7 +27,7 @@ Currently, he focuses on research involving remote sensing Synthetic Aperture Ra
 * Side project for QE topic: Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
 * Master Degree Research Topic: Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335).  Khon Kaen University. Thailand. 
 
-<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Publications (_2022-Latest_) </h2>
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Publications (2022-Latest) </h2>
 ### Research articles:
 * Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand.  [(2026)](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2718647). Geo-spatial Information Science. ![Q1](https://img.shields.io/badge/-Q1-228B22?style=flat-square) [ Project Mahasarakham University ]
 * GeoAI-Based Prediction of Yellowfin Tuna (Thunnus albacares) Potential Fishing Zones in the Western Sumatra Waters, Indonesia. [(2026)](https://journals.ums.ac.id/fg). Journal Forum Geografi. ![Q1](https://img.shields.io/badge/-Q1-228B22?style=flat-square)
@@ -47,7 +47,7 @@ Currently, he focuses on research involving remote sensing Synthetic Aperture Ra
 * Spatial Assessment Impact of Tsunami Hazard on the Transportation Infrastructure in Phuket South of Thailand. [(2022)](https://doi.org/10.1007/978-981-19-9768-6_52). Springer Proceedings in Physics. ![Q4](https://img.shields.io/badge/-Q4-8B4513?style=flat-square)
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72). Springer Proceedings in Physics. ![Q4](https://img.shields.io/badge/-Q4-8B4513?style=flat-square)
 
-<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Conference Presentations, Invited Talk and Training (_2022-Latest_) </h2>
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Conference Presentations, Invited Talk and Training (2022-Latest) </h2>
 * *Invited Speaker*, Application of Remote Sensing. Department of Surveying Science and Geomatics, Faculty of Built Environment, University Teknology Mara UiTM Perak. Malaysia. 29 June 2026. 
 * *Audience*, Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * *Audience*, Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
@@ -62,7 +62,7 @@ Currently, he focuses on research involving remote sensing Synthetic Aperture Ra
 * Individual Member of : International Society for Photogrammetry and Remote Sensing. Since [(2022)](https://www.isprs.org/).
 * Regular Member of: Indonesian Geospatial Expert Society. Since [(2021)](https://pagiiges.org/)
 
-<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Other academic activities (_2022-Latest_) </h2>
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Other academic activities (2022-Latest) </h2>
 * Editorial Team Journal of Advanced Computer Knowledge and Algorithms, [(2026)](https://ojs.unimal.ac.id/jacka/Editorial_Team)
 * Reviewer Journal of Geoscience, Engineering, Environment, and Technology, since [(2022- now)](https://journal.uir.ac.id/index.php/JGEET/reviewer)
 * Reviewer Journal of Geoscience, Remote Sensing and Technology, since [(2025-now)](https://geo-rest.org/index.php/geo)
