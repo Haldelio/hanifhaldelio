@@ -1,5 +1,5 @@
 <h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Personal Summary </h2>
-#### Currently, he focuses on research involving remote sensing Synthetic Aperture Radar (SAR) and Geospatial Artificial Intelligence (Geo-AI) based on space time cube dataset for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal and volcanic deformation within the field of volcanology, seismic processes, and a range of natural hazard events based on Geospatial Technology. He is also open for research collaboration in related fields.
+####Currently, he focuses on research involving remote sensing Synthetic Aperture Radar (SAR) and Geospatial Artificial Intelligence (Geo-AI) based on space time cube dataset for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal and volcanic deformation within the field of volcanology, seismic processes, and a range of natural hazard events based on Geospatial Technology. He is also open for research collaboration in related fields.
 
 ## Research Interests
 - Volcano, Tectonic and Crustal Deformations
@@ -12,23 +12,22 @@
 ||  [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
 [ResearchGate](https://www.researchgate.net/profile/Hanif-Muhammad-5?ev=hdr_xprf) || [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198221444) ||
 
-## Education
-
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Education </h2>
 - Ph.D., in Geoinformatics, Khon Kaen University, Thailand (_2025-Now_)
 - M.Sc., in Geoinformatics, Khon Kaen University, Thailand, 2024
 - B.Sc Hons., in Geography, minor in Physical Geography, Universitas Negeri Padang, Indonesia, 2016
 
-## Activitiy
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Activity </h2>
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Field of Science and Technology STEM, by GS Khon Kaen University.
-  
-## Post-Master Degree Researcher 
+
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Post-Master Degree Researcher </h2>
 * Department of Geography. Mahasarakham University, Thailand. Topic: Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. Earth Observation Technologies (EOT) for Land and Agricultural Development.   [(_2025_)](https://human.msu.ac.th/eot/). 
 
-## Researchs
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Post-Master Degree Researchs </h2>
 * Side project for QE topic: Spatial Statistic and Machine Learning for Monitoring Ground Motions and Seismic Activities in Myanmar, 2026. [(*Status on going*)](https://www.researchsquare.com/article/rs-9852122/v1). Khon Kaen University, Thailand.
 * Master Degree Research Topic: Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335).  Khon Kaen University. Thailand. 
-  
-## Publications (_2022-Latest_)
+
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Publications (_2022-Latest_) </h2>
 ### Research articles:
 * Leveraging GEDI and Multi-Temporal Sentinel Data Integration for Detecting Rubber Tree Plantations in Northeast Thailand.  [(2026)](https://www.tandfonline.com/doi/full/10.1080/10095020.2026.2718647). Geo-spatial Information Science. ![Q1](https://img.shields.io/badge/-Q1-228B22?style=flat-square) [ Project Mahasarakham University ]
 * GeoAI-Based Prediction of Yellowfin Tuna (Thunnus albacares) Potential Fishing Zones in the Western Sumatra Waters, Indonesia. [(2026)](https://journals.ums.ac.id/fg). Journal Forum Geografi. ![Q1](https://img.shields.io/badge/-Q1-228B22?style=flat-square)
@@ -47,8 +46,8 @@
 * Rapid Monitoring for Flood Inundation Detection-Based Sentinel-1 SAR Image Data and Exposure Assessment in Urban Building Area: Makassar City, Indonesia. [(2024)](https://doi.org/10.1007/978-981-97-0740-9_56). Springer Proceedings in Physics. ![Q4](https://img.shields.io/badge/-Q4-8B4513?style=flat-square)
 * Spatial Assessment Impact of Tsunami Hazard on the Transportation Infrastructure in Phuket South of Thailand. [(2022)](https://doi.org/10.1007/978-981-19-9768-6_52). Springer Proceedings in Physics. ![Q4](https://img.shields.io/badge/-Q4-8B4513?style=flat-square)
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72). Springer Proceedings in Physics. ![Q4](https://img.shields.io/badge/-Q4-8B4513?style=flat-square)
-  
-## Conference Presentations, Invited Talk and Training (_2022-Latest_)
+
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Conference Presentations, Invited Talk and Training (_2022-Latest_) </h2>
 * *Invited Speaker*, Application of Remote Sensing. Department of Surveying Science and Geomatics, Faculty of Built Environment, University Teknology Mara UiTM Perak. Malaysia. 29 June 2026. 
 * *Audience*, Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * *Audience*, Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
@@ -59,11 +58,11 @@
 * *Audience*, Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
 * *Audience*, International Geoinformatics Summer School. [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
 
-## Memberships
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;"> Membership </h2>
 * Individual Member of : International Society for Photogrammetry and Remote Sensing. Since [(2022)](https://www.isprs.org/).
 * Regular Member of: Indonesian Geospatial Expert Society. Since [(2021)](https://pagiiges.org/)
 
-## Other academic activities (_2022-Latest_)
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Other academic activities (_2022-Latest_) </h2>
 * Editorial Team Journal of Advanced Computer Knowledge and Algorithms, [(2026)](https://ojs.unimal.ac.id/jacka/Editorial_Team)
 * Reviewer Journal of Geoscience, Engineering, Environment, and Technology, since [(2022- now)](https://journal.uir.ac.id/index.php/JGEET/reviewer)
 * Reviewer Journal of Geoscience, Remote Sensing and Technology, since [(2025-now)](https://geo-rest.org/index.php/geo)
@@ -71,7 +70,7 @@
 * Invited Reviewer Journal Environmental Science and Pollution Research. Springer Nature, 2025.
 * Invited Reviewer Journal Geography, Environment, Sustainability, 2026.
 
-## Profesional Experiences
+<h2 style="background-color: #1769AA; color: white; padding: 10px 15px; border-radius: 0;">  Profesional Experiences </h2>
 * Geographic Information System Team. Denaya Consultindo Ltd. Urban Planning and Making Detailed Map of Bantaeng Urban Planning Plan in Indonesia. 2024. 
 * Geographic Information System Specialist. The Department of Regional Planning and Development Agency, Dharmasraya Regency (Local government). 2021-2022.
 * Geographic Information System Specialist. The Ministry of Public Works and Public Housing of Indonesia, Riau Island. (Central government). 2020.
